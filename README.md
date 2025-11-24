@@ -1,4 +1,3 @@
-# Algoritimos-_pensamentos_computacional
 # 📦 Sistema de Controle de Estoque (Projeto Integrador)
 
 Este projeto foi desenvolvido como parte das atividades da disciplina de  Algoritimos e pensamentos computacional e tem como objetivo aplicar e consolidar conceitos fundamentais de programação estruturada em C, desde estruturas sequenciais até modularização com funções e manipulação de dados compostos.
