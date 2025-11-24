@@ -1,0 +1,1 @@
+# Algoritimos-_pensamentos_computacional
